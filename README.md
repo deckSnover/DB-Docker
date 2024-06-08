@@ -1,4 +1,4 @@
-## Sistema_DB_-Utilizando_Docker
+## Sistema_DB_Utilizando_Docker
 
 ```markdown
 # Sistema de Banco de Dados Usando Docker
