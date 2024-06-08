@@ -157,26 +157,3 @@ SOFTWARE.
 
 **Autor:** Igor Hilario
 ```
-
-### Passos para Adicionar o README.md ao GitHub
-
-1. **Crie um arquivo `README.md` na raiz do seu repositório local**:
-   - Abra seu editor de texto favorito.
-   - Crie um novo arquivo chamado `README.md`.
-   - Cole o conteúdo do markdown acima no arquivo `README.md`.
-
-2. **Adicione o arquivo ao seu repositório local**:
-   - Abra seu terminal ou prompt de comando.
-   - Navegue até a raiz do seu repositório.
-   - Adicione o arquivo ao repositório usando os comandos:
-     ```sh
-     git add README.md
-     git commit -m "Adiciona documentação inicial do sistema de banco de dados"
-     git push origin main
-     ```
-
-3. **Verifique no GitHub**:
-   - Vá para a página do seu repositório no GitHub.
-   - Verifique se o `README.md` foi adicionado e está sendo exibido corretamente na página principal do repositório.
-
-Isso garantirá que todas as informações relevantes sobre o projeto, incluindo a configuração, uso, backup, restauração, contribuições e licença, estejam documentadas e acessíveis diretamente na página principal do repositório no GitHub.
