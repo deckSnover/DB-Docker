@@ -79,7 +79,7 @@ VALUES
 ### Níveis de Acesso
 - **Consultor de Investimento**: Pode consultar informações de contas.
 - **Gerente Administrativo**: Pode consultar informações de contas e depositar em contas.
-- **Gerente Geral**: Pode consultar informações de contas, depositar e sacar de contas.
+- **Gerente Geral**: Pode consultar informações de contas, depositar, autorizar transfelências acima de 200 mil reai
 
 ### Atualização do Arquivo init.sql
 
