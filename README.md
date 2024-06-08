@@ -42,8 +42,3 @@ SELECT sacar('9876543210', 200.00);
 3. Commit suas mudanças: `git commit -m 'Adiciona minha feature'`.
 4. Faça um push para a branch: `git push origin minha-feature`.
 5. Abra um pull request.
-
-## Licença
-
-Este projeto é licenciado sob a MIT License. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-```
