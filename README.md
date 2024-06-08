@@ -1,5 +1,3 @@
-## Sistema_DB_Utilizando_Docker
-
 ## Permissões de Usuários
 
 ### Níveis de Acesso
