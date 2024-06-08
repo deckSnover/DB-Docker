@@ -1,10 +1,5 @@
 ## Sistema_DB_Utilizando_Docker
 
-Claro, aqui está o novo markdown com as atualizações:
-
-```markdown
-# Sistema de Banco de Dados Usando Docker
-
 ## Permissões de Usuários
 
 ### Níveis de Acesso
