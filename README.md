@@ -1,7 +1,5 @@
 # Sistema_DB_Utilkzando_Docker
 
-# Sistema de Banco de Dados Usando Docker
-
 ## Planejamento
 
 **Banco de Dados**: PostgreSQL  
