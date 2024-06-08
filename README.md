@@ -1,4 +1,4 @@
-# Sistema_DB_Utilkzando_Docker
+# Sistema_DB_Utilizando_Docker
 
 ## Planejamento
 
