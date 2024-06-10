@@ -37,5 +37,4 @@ Este projeto é licenciado sob a MIT License.
 
 Esse README fornece instruções claras sobre como configurar e usar seu projeto, incluindo links para os guias de instalação do Docker e PostgreSQL para facilitar a instalação dessas ferramentas.
 ```
-<img src="https://media.licdn.com/dms/image/D4D12AQGWzR2SAcm9-g/article-cover_image-shrink_720_1280/0/1677016422527?e=2147483647&amp;v=beta&amp;t=qdbw2IFWF8A6KABUIopcEeonob-NiRRp1eDct6blWbw" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1280px; height: 272px; margin: 0.5px 0px; width: 484px;" alt="Como instalar o Metabase no Docker usando Ubuntu Server" jsname="kn3ccd" aria-hidden="false">
-
+![image](https://github.com/Hilariods/DB-Docker/assets/155846237/6044bdda-6761-4009-afaa-b7e8bf3863bb)
