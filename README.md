@@ -36,5 +36,5 @@ Este projeto é licenciado sob a MIT License.
 ### Orientações
 
 Esse README fornece instruções claras sobre como configurar e usar seu projeto, incluindo links para os guias de instalação do Docker e PostgreSQL para facilitar a instalação dessas ferramentas.
-```
-![image](https://github.com/Hilariods/DB-Docker/assets/155846237/6044bdda-6761-4009-afaa-b7e8bf3863bb)
+
+<img src = "img/sql.jpg">
