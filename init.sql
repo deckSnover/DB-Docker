@@ -1,3 +1,7 @@
+CREATE DATABASE clients;
+
+USE clients;
+
 CREATE TABLE accounts (
     id SERIAL PRIMARY KEY,
     account_number VARCHAR(20) NOT NULL,
